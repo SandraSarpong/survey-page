@@ -1,0 +1,95 @@
+body{
+    text-align: center;
+}
+.heading{
+    color: rgb(23, 115, 115);
+    text-align: center;
+    font-family: calibri;
+    font-size: 20px;
+}
+
+hr{
+    background-color: rgb(121, 181, 30);
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 5px;
+}
+
+.about{
+    text-align: justify;
+    padding-left: 21%;
+    padding-right: 21%;
+}
+
+.topic{
+    display: inline-block;
+    width:200px;
+    text-align:left;
+    margin-left: 22%
+}
+
+.checkbox{
+    margin-left: 117px;
+}
+
+.capacity{
+    text-align: left;
+    margin-left: 21%
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 21%;
+    margin-right: 21%;
+}
+.hear{
+    text-align: left;
+    margin-left: 21%
+}
+
+.use{
+    text-align: left;
+    margin-left: 21%
+}
+
+.intro{
+    text-align: left;
+    margin-left: 21%
+}
+
+.rate{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 40%;
+    margin-right: 25%;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+  
+}
+
+.textarea{
+    text-align: left;
+    margin-left: 21%;
+}
+
+#textarea{
+    width: 70%;
+}
+
+
+.question{
+    text-align: left;
+    margin-left: 21%   
+}
+
+.question1{
+    text-align: left;
+    margin-left: 21%   
+}
